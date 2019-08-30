@@ -14,13 +14,5 @@ namespace TP1_Valenzuela
         private string Direccion;
         private int Telefono;
         public int PerGS { get; set; }
-
-        public Compartimiento Compartimiento
-        {
-            get => default(Compartimiento);
-            set
-            {
-            }
-        }
     }
 }

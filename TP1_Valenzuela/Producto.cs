@@ -10,6 +10,7 @@ namespace TP1_Valenzuela
         private string CodProducto;
         private string Nombre;
         Proveedor Pro = new Proveedor();
+        Stock Sto = new Stock();
         public int ProGS { get; set; }
     }
 }

@@ -1,0 +1,4 @@
+G:\Proyectos\TP1_Valenzuela\TP1_Valenzuela\TP1_Valenzuela\obj\Debug\TP1_Valenzuela.csprojAssemblyReference.cache
+G:\Proyectos\TP1_Valenzuela\TP1_Valenzuela\TP1_Valenzuela\obj\Debug\TP1_Valenzuela.Properties.Resources.resources
+G:\Proyectos\TP1_Valenzuela\TP1_Valenzuela\TP1_Valenzuela\obj\Debug\TP1_Valenzuela.csproj.GenerateResource.cache
+G:\Proyectos\TP1_Valenzuela\TP1_Valenzuela\TP1_Valenzuela\obj\Debug\TP1_Valenzuela.csproj.CoreCompileInputs.cache

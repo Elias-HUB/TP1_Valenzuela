@@ -13,10 +13,10 @@ namespace TP1_Valenzuela
         private string Localidad;
         private string Telefono;
         private int CantPasillos;
-        private Persona Per = new Persona();
-        private Transporte Trans = new Transporte();
-        private Medidas Med = new Medidas();
-        private Pasillo Pas = new Pasillo();
+        Persona Per = new Persona();
+        Transporte Trans = new Transporte();
+        Medidas Med = new Medidas();
+        Pasillo Pas = new Pasillo();
         public int DepGS { get; set; }
     }
 }

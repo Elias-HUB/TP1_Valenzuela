@@ -7,5 +7,7 @@ namespace TP1_Valenzuela
 {
     public class Stock
     {
+        private int Unidades;
+        public int UniGS { get; set; }
     }
 }
